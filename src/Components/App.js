@@ -92,6 +92,11 @@ class App extends Component {
                <Laps className="my-5" laps={ this.state.laps } />
             </div>
           </div>
+        <div className="footer">
+          <h2><span>Md Mustafizur Rahman  </span>
+          <br/>
+          <a href="https://github.com/mustafizurrahma/stop-watch" target="_blank" rel="noopener noreferrer">Project Github Link</a></h2>
+        </div>
         </div>
       </div>
     );
